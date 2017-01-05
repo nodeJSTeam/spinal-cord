@@ -1,6 +1,6 @@
 {
   "name": "spinal-cord",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Abstract Collection & Models inspired by Backbone.js",
   "main": "index.js",
   "scripts": {
